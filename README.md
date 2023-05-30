@@ -3,7 +3,7 @@ helpful scripts to install dwagents
 
 run
 ```bash
-sudo wget https://raw.githubusercontent.com/TheTrueZeroTwo/dwservice-helper/main/linux-install.sh && sudo chmod +x ./linux-install.sh && bash ./linux-install.sh
+sudo wget https://raw.githubusercontent.com/TheTrueZeroTwo/dwservice-helper/main/linux-install.sh && sudo chmod +x ./linux-install.sh && bash ./linux-install.sh  && rm ./linux-install.sh
 ```
 
 1. open a terminal
